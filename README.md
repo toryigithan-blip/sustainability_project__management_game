@@ -8,7 +8,7 @@ Built as a workshop game for World Water Week 2026. Playable in the browser, no 
 
 **[Play online: yigithan-water-project.netlify.app](https://yigithan-water-project.netlify.app)**
 
-> **If the link does not work:** download `index.html` from this repository and open it in any modern browser (Chrome, Edge, Safari, Firefox). No installation or server is needed. Use a landscape phone, tablet or desktop screen for the best experience. Live team submissions need an internet connection and may not work when the file is opened locally.
+> **If the link does not work:** download `index.html` from this repository and open it in any modern browser (Chrome, Edge, Safari, Firefox). No installation or server is needed. Use a landscape tablet or desktop screen for the best experience. Live team submissions need an internet connection and may not work when the file is opened locally.
 
 ---
 
