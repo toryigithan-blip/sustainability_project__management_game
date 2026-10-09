@@ -18,8 +18,8 @@ Built as a workshop game for World Water Week 2026. Playable in the browser, no 
 - **Goal:** Deliver 500 ML of water benefit per year using a limited budget (1,000,000 credits) and limited land (1,000 hectares).
 - **Core idea:** There is no single winning build. Many strategies reach the target, so the interesting part is *how* you get there and *what you do with what is left*.
 - **Outcome:** At the end, the game reveals your project's **Archetype**, **Philosophy** and an **Activity Summary**, plus hidden benefits and trade-offs you did not see while playing.
-- **Design intent:** The layered, interconnected structure is deliberate. It mirrors how real agricultural water projects at Doktar are built, where technology, measurement, training and farmer support all depend on each other.
-- **Why it matters for games:** Systems design, economy balancing, hidden-state scoring, emergent player identity and a live multiplayer host dashboard, all in a single-file web app.
+- **Design intent:** The layered, interconnected structure is deliberate. It mirrors how real agricultural water projects are built, where technology, measurement, training and farmer support all depend on each other.
+- **Why it matters for games:** Systems design, economy balancing, hidden-state scoring, and emergent player identity, all in a single-file web app.
 
 ---
 
@@ -75,7 +75,7 @@ Two teams can both reach 500 ML and end up with completely different identities.
 
 ## Why the Game Is Complex on Purpose
 
-The structure is not complexity for its own sake. It is a deliberate model of how real projects at Doktar are layered:
+The structure is not complexity for its own sake. It is a deliberate model of how real projects are layered:
 
 | In the game | In a real project |
 |---|---|
@@ -93,7 +93,7 @@ Players feel the lesson instead of reading it: a project is only as strong as th
 
 ## Design Highlights
 
-- **Constrained economy:** two budgets (money and land) force real trade-offs.
+- **Constrained economy:** three budgets (money, land and reached farmer count) force real trade-offs.
 - **Emergent identity:** the player never picks an archetype. It is derived from their behavior.
 - **Hidden scoring layer:** outcomes are revealed only at the end, which creates a "reveal" moment and drives discussion.
 - **Synergies and penalties:** combo bundles and trade-offs reward systems thinking over stacking one thing.
