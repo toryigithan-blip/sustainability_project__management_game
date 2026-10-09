@@ -4,14 +4,6 @@ A strategy game where you design a water-saving project for farmers, and the gam
 
 Built as a workshop game for World Water Week 2026. Playable in the browser, no install needed.
 
-## Play the Game
-
-**[Play online: yigithan-water-project.netlify.app](https://yigithan-water-project.netlify.app)**
-
-> **If the link does not work:** download `index.html` from this repository and open it in any modern browser (Chrome, Edge, Safari, Firefox). No installation or server is needed. Use a landscape phone, tablet or desktop screen for the best experience. Live team submissions need an internet connection and may not work when the file is opened locally.
-
----
-
 ## Executive Summary
 
 - **What it is:** A resource-management strategy game played in teams on phones or tablets.
@@ -20,6 +12,16 @@ Built as a workshop game for World Water Week 2026. Playable in the browser, no 
 - **Outcome:** At the end, the game reveals your project's **Archetype**, **Philosophy** and an **Activity Summary**, plus hidden benefits and trade-offs you did not see while playing.
 - **Design intent:** The layered, interconnected structure is deliberate. It mirrors how real agricultural water projects are built, where technology, measurement, training and farmer support all depend on each other.
 - **Why it matters for games:** Systems design, economy balancing, hidden-state scoring, emergent player identity and a live multiplayer host dashboard, all in a single-file web app.
+
+---
+
+## Play the Game
+
+**[Play online: yigithan-water-project.netlify.app](https://yigithan-water-project.netlify.app)**
+
+> **If the link does not work:** download `index.html` from this repository and open it in any modern browser (Chrome, Edge, Safari, Firefox). No installation or server is needed. Use a landscape phone, tablet or desktop screen for the best experience. Live team submissions need an internet connection and may not work when the file is opened locally.
+
+![Water Project, screenshot 1](screenshots/www_ss1.png)
 
 ---
 
@@ -46,6 +48,8 @@ If you only buy technology and skip the farmers, it underperforms. If you skip m
 4. **Hit the 500 ML target**, then decide how to spend what remains. This choice reveals your priorities.
 5. **Submit** and see what you built.
 
+![Water Project, screenshot 3](screenshots/www_ss3.png)
+
 ---
 
 ## What the Player Gets at the End
@@ -70,6 +74,8 @@ A short plain-language recap of your run: how many workstreams, how much land an
 - **Suggestions:** what you could have added to improve
 
 Two teams can both reach 500 ML and end up with completely different identities.
+
+![Water Project, screenshot 4](screenshots/www_ss4.png)
 
 ---
 
