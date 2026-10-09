@@ -18,7 +18,7 @@ Built as a workshop game for World Water Week 2026. Playable in the browser, no 
 - **Goal:** Deliver 500 ML of water benefit per year using a limited budget (1,000,000 credits) and limited land (1,000 hectares).
 - **Core idea:** There is no single winning build. Many strategies reach the target, so the interesting part is *how* you get there and *what you do with what is left*.
 - **Outcome:** At the end, the game reveals your project's **Archetype**, **Philosophy** and an **Activity Summary**, plus hidden benefits and trade-offs you did not see while playing.
-- **Design intent:** The layered, interconnected structure is deliberate. It mirrors how real agricultural water projects at Doktar are built, where technology, measurement, training and farmer support all depend on each other.
+- **Design intent:** The layered, interconnected structure is deliberate. It mirrors how real agricultural water projects are built, where technology, measurement, training and farmer support all depend on each other.
 - **Why it matters for games:** Systems design, economy balancing, hidden-state scoring, emergent player identity and a live multiplayer host dashboard, all in a single-file web app.
 
 ---
@@ -75,7 +75,7 @@ Two teams can both reach 500 ML and end up with completely different identities.
 
 ## Why the Game Is Complex on Purpose
 
-The structure is not complexity for its own sake. It is a deliberate model of how real projects at Doktar are layered:
+The structure is not complexity for its own sake. It is a deliberate model of how projects are layered in real life:
 
 | In the game | In a real project |
 |---|---|
@@ -111,8 +111,7 @@ Players feel the lesson instead of reading it: a project is only as strong as th
 ## Run It
 
 1. **Online:** open the [live link](https://yigithan-water-project.netlify.app).
-2. **Locally:** download `index.html` and open it in a browser. The game plays fully and shows results.
-3. **Your own backend (optional):** create a Firebase project with Firestore, then replace `FIREBASE_CONFIG`, `EVENT_ID` and `JOIN_URL` in `index.html` and set your own Firestore rules. Without this, submissions from a local copy may not be saved.
+2. **Locally:** download `index.html` and open it in a browser. The game plays fully and shows results
 
 ---
 
